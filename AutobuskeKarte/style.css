@@ -1,0 +1,10 @@
+form {
+    display: none;
+  }
+  input {
+    width: 100%;
+  }
+  
+  select {
+    width: 100%;
+  }
